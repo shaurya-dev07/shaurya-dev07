@@ -15,7 +15,6 @@ I'm a Computer Science & Data Science student passionate about building projects
 
 - 🔭 Currently working on **DSA, Web Development & Data Science**
 - 🌱 Currently learning **Advanced DSA, React, Backend Development**
-- 💻 Practicing **DSA** regularly
 - 🛠️ Building projects with **HTML, CSS, JavaScript, React & Node.js**
 - 📊 Exploring **Python, Pandas, NumPy, Matplotlib & Machine Learning**
 - 🎯 Goal: Become a strong **Software Engineer**
