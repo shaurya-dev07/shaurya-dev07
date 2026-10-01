@@ -7,6 +7,7 @@
 <img align="middle" alt="GIF" src="https://i.pinimg.com/originals/65/a5/ec/65a5ec60b90f6b8faede3390ad5ee065.gif" />
 </p>
 
+---
 
 ### 🚀 CSE-DS Student | DSA Enthusiast | Web Developer 
 
@@ -27,8 +28,9 @@ I'm a Computer Science & Data Science student passionate about building projects
 <a href="https://github.com/shaurya-dev07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shaurya-dev07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shaurya-pratap-singh-316298398/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurya-pratap-singh" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/shaurya-dev07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaurya-dev07" height="30" width="40" /></a>
-
 </p>
+
+---
 
 <h3 align="left">🛠️ Tech Stack:</h3>
 
@@ -67,6 +69,8 @@ I'm a Computer Science & Data Science student passionate about building projects
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
 </p>
+
+---
 
 <h3>🔥 Streak Stats</h3>
 
