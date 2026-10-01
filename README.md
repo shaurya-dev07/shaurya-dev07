@@ -14,7 +14,7 @@
 I'm a Computer Science & Data Science student passionate about building projects, solving problems, and continuously improving my technical skills.
 
 - 🔭 Currently working on **DSA, Web Development & Data Science**
-- 🌱 Currently learning **Advanced DSA, React, Backend Development*
+- 🌱 Currently learning **Advanced DSA, React, Backend Development**
 - 💻 Practicing **DSA** regularly
 - 🛠️ Building projects with **HTML, CSS, JavaScript, React & Node.js**
 - 📊 Exploring **Python, Pandas, NumPy, Matplotlib & Machine Learning**
